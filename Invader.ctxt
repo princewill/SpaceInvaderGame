@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Invader(Space)
+comment0.text=\nAssign\ the\ space,\ give\ an\ initial\ position\ (0,\ 0)\nand\ set\ initial\ direction\ to\ true\ (East)\n\n
+comment1.params=x\ y\ s
+comment1.target=Invader(int,\ int,\ Space)
+comment1.text=\nInitialize\ the\ location\ and\ space\ as\ per\ the\ supplied\ parameters.\nset\ initial\ direction\ to\ true\ (East)\n\n
+comment2.target=void\ shoot()
+comment3.target=void\ move()
+comment3.text=\nMove\ the\ invader\ following\ the\ instructions\ in\ the\ assignment\:\neach\ move\ step\ moves\ the\ invader\ one\ step\ further\ in\ its\ current\ direction\ (West\ or\ East)\nuntil\ it\ hits\ the\ edge\ of\ space,\ \nin\ which\ case\ it\ moves\ down\ one\ step\ and\ switches\ directions\ for\ the\ next\ move.\nAlso\:\ it\ should\ shoot\ (direction\:\ south)\ randomly,\ with\ a\ 30%\ probability.\n\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=SnakeHead(Desert)
+comment0.text=\nInitialize\ the\ snake\ head\ by\ setting\ its\ location\ in\ the\ center\ of\ the\ desert,\nand\ its\ initial\ direction\ which\ is\ North.\n\n
+comment1.target=void\ moveForward()
+comment1.text=\nMove\ one\ step\ forward\ \n\n
+comment2.target=void\ moveLeft()
+comment2.text=\nMove\ one\ step\ to\ the\ left.\ This\ also\ changes\ the\ snake's\ direction.\n\n
+comment3.target=void\ moveRight()
+comment3.text=\nMove\ one\ step\ to\ the\ right.\ This\ also\ changes\ the\ snake's\ direction.\n\n
+comment4.target=String\ toString()
+comment4.text=\n@return\ a\ string\ representation\ of\ the\ snake's\ head.\ This\ string\ will\ reflect\nthe\ snake\ head's\ current\ direction\:\ <ul>\n<li>"^"\ for\ North\n<li>"v"\ for\ South\n<li>"<"\ for\ West\n<li>">"\ for\ East\n</ul>\n\n
+numComments=5

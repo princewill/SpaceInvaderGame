@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=env
+comment0.target=GraphicalSpaceInvaderGame(Environment)
+comment0.text=\nContructor\ that\ takes\ in\ one\ parameter\ of\ type\ Environment\nInstantiates\ the\ instance\ variables\n\n
+comment1.params=event
+comment1.target=void\ actionPerformed(ActionEvent)
+comment1.text=\n<ul><li>\ Outputs\ the\ current\ state\ of\ the\ environment\n<li>\ Gets\ console\ input\ from\ the\ user\ and\ delegates\ to\ the\ environment\ for\ processing\n<li>\ Resolves\n<li>\ Determines\ win\ or\ loss\n<li>\ until\ the\ user\ quits.</ul>\ \ \ \ \ \n
+comment2.target=void\ repaint()
+comment2.text=\nshow\ the\ current\ state\ of\ the\ game\ after\ it\ has\ been\ resolved\n\n
+comment3.params=args
+comment3.target=void\ main(String[])
+numComments=4

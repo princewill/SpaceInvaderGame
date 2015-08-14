@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ s\ dir
+comment0.target=Bullet(int,\ int,\ Space,\ boolean)
+comment0.text=\nInitialize\ the\ game,\ the\ location\ of\ the\ bullet\ and\ direction\ toward\ which\ it\ was\ fired\n(false\ for\ North,\ true\ for\ South)\n\n
+comment1.target=void\ move()
+comment1.text=move\ one\ step\ in\ the\ direction\ of\ the\ firing\ \n
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Cannon(Space)
+comment0.text=\nAssign\ the\ space\ and\ put\ the\ cannon\ at\ its\ bottom\ left\ corner.\n\n
+comment1.params=x\ s
+comment1.target=Cannon(int,\ Space)
+comment1.text=\nInitialize\ the\ location\ of\ the\ cannon\ and\ space\ as\ per\ the\ supplied\ parameters.\ \nOnly\ the\ x-coordinate\ is\ supplied,\ as\ the\ y-coordinate\ should\ always\ be\ 0\ \n(because\ the\ cannon\ is\ always\ on\ the\ ground).\n\n
+comment2.target=void\ moveLeft()
+comment2.text=\nmove\ one\ step\ to\ the\ left,\ if\ possible\notherwise\ do\ nothing\n\n
+comment3.target=void\ moveRight()
+comment3.text=\nmove\ one\ step\ to\ the\ right,\ if\ possible\notherwise\ do\ nothing\n\n
+comment4.target=void\ shoot()
+comment4.text=\nshoot\ by\ creating\ a\ bullet\ at\ the\ cannon's\ current\ location.\nthe\ bullet\ should\ head\ north\!\n\n
+numComments=5

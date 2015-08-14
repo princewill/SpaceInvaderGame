@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Desert(int)
+comment0.text=\nConstructor\:\ <ul>\n<li>set\ the\ size\ (used\ for\ both\ height\ and\ width)\ to\ the\ specified\ value<li>\n<li>create\ a\ snake\ and\ place\ it\ at\ the\ center</li>\n<li>place\ a\ mouse\ at\ a\ random\ location\ that\ is\ not\ overlapping\ with\ the\ snake\nor\ a\ snake\ part</li>\n</ul>\n\n
+comment1.target=Desert()
+comment1.text=Desert\ initialized\ using\ the\ default\ size\ (5)\ \n
+comment10.target=String\ toString()
+comment10.text=\n@return\ a\ string\ representation\ of\ desert\:\ use\:\ <ul>\n<li>"\ "\ for\ empty\ space\n<li>the\ string\ representation\ of\ the\ snake\ head\ \n<li>"m"\ for\ the\ mouse\ </ul>\nif\ snake\ head\ and\ mouse\ overlap,\ only\ draw\ the\ snake\ head\n\n
+comment2.target=SnakeHead\ getSnakeHead()
+comment2.text=accessor\ for\ snake\ head\ \n
+comment3.params=x\ y
+comment3.target=boolean\ hasSnakeHeadAt(int,\ int)
+comment3.text=@return\ whether\ there's\ a\ snake\ head\ at\ the\ supplied\ location\ \n
+comment4.params=x\ y
+comment4.target=boolean\ hasSnakeBodyPartAt(int,\ int)
+comment5.params=x\ y
+comment5.target=boolean\ hasMouseAt(int,\ int)
+comment6.target=String\ getCommands()
+comment7.params=c
+comment7.target=void\ processCommand(char)
+comment8.target=void\ resolve()
+comment8.text=\nCheck\ to\ see\ if\ the\ snake\ head\ has\ reached\ the\ mouse.\ \nIf\ that's\ the\ case,\ replace\ the\ mouse\ with\ a\ new\ one.\n\n
+comment9.target=boolean\ hasLost()
+numComments=11

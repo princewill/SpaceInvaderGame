@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y\ d
+comment0.target=SnakeBodyPart(int,\ int,\ Desert)
+comment0.text=\nInitialize\ the\ body\ part\ as\ per\ the\ supplied\ parameters\n\n
+numComments=1

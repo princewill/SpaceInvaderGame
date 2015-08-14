@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Mouse(Desert)
+comment0.text=\ninitialize\ the\ mouse\ by\ randomly\ placing\ it\ in\ the\ desert,\nbut\ not\ on\ top\ of\ the\ snake\ \n\n
+numComments=1

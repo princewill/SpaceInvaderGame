@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Environment(int)
+comment0.text=\ninitialize\ the\ size\ of\ the\ environment\n\n
+comment1.target=Environment()
+comment1.text=initialize\ the\ environment\ using\ the\ default\ size\ (5)\ \n
+comment2.target=int\ getSize()
+comment2.text=accessor\ for\ the\ size\ of\ the\ environment\ \n
+comment3.target=String\ getCommands()
+comment3.text=\n@returns\ a\ string\ listing\ the\ acceptable\ commands\ for\ the\ game\n\n
+comment4.params=c
+comment4.target=void\ processCommand(char)
+comment4.text=\nProcess\ the\ command\ supplied\ as\ a\ parameter\ (typically\ a\ player\ move)\n\n
+comment5.target=void\ resolve()
+comment5.text=\nMove\ various\ items,\ and\ndetermine\ the\ new\ state\ of\ the\ game\ based\ on\ the\ location\ of\ items\ and\ player\n\n
+comment6.target=boolean\ hasLost()
+comment6.text=\nDetermine\ loss\ (if\ not\ applicable\ for\ this\ game\ just\ return\ false)\n\n
+comment7.target=boolean\ hasWon()
+comment7.text=\nDetermine\ if\ the\ player\ has\ won\ (if\ not\ applicable\ just\ return\ false)\n\n
+comment8.target=void\ print()
+comment8.text=\noutputs\ a\ string\ representation\ of\ the\ environment\ to\ the\ console\n\n
+numComments=9
